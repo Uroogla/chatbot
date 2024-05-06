@@ -9,5 +9,29 @@
       "psyeneyed": ["Thanks, Psyeneyed! May the Heart of the Cards lead us to victory.", "Thanks, Psyeneyed! May the way of the Hero lead to the Triforce - or at least a sword.", "Thanks Psyeneyed! I won't ask you to fight Sans or play Aladdin, don't worry."],
       "abidingphantom": ["No u, Abiding!", "Thanks, Abiding!  At least this isn't Getting Over It.", "Thanks, Abiding! See, I made my own bot for my channel!"],
       "dereklander": ["Thanks, Derek! When's the Aladdin-sprashfecta?", "Thanks, Derek! By the way, my mod told me to tell you to do Mushroom Speedway ILs."]
+    },
+    "aladdin": {
+      "uroogla": ["!begone @Uroogla - be nice and don't bait your chat"],
+      "crystalfos_": ["!begone @crystalfos_", "!begone - See, I changed it for you!", "!begone - I've already played it! https://www.twitch.tv/videos/2074936518"],
+      "caenisce": ["!discord @caenisce - I mean !wasntmyidea"]
+    },
+    "tedprice": {
+      "abidingphantom": ["Classic Abiding!"]
+    },
+    "blookleave": {
+      "uroogla": ["Stop baiting chat and play the game, Uroogla."],
+      "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!"]
+    },
+    "daisyarrive": {
+      "secondplace92": ["Welcome on in, Second!"]
+    },
+    "fightsans": {
+      "uroogla": ["Is Uroogla baiting chat again?"],
+      "crystalfos_": ["Depends, when is your KH2 Kingdom Keyblade challenge run?", "What's in it for me?"],
+      "psyeneyed": ["No.", "I said no.", "Because I don't want to.", "I don't care.", "Too bad."],
+      "cynderdraaygon": ["Shocking, Sipner is siding with Crystal. My mods are against me."]
+    },
+    "gg": {
+      "nightbot": ["Thanks, Nightbot!"]
     }
 }
