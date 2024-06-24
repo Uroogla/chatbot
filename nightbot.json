@@ -2,7 +2,7 @@
     "gl": {
       "uroogla": ["Thanks, Uroogla! ...wait, that wasn't directed at me, was it?", "Good luck!", "Less typing, more game playing, Uroogla!"],
       "secondplace92": ["Thanks, Second! That means a lot coming from a real speedrunner!", "Thanks, Second! May Daisy guide this stream.", "Thanks, Second!  So when are you running this?"],
-      "crystalfos_": ["Thanks, Crystal! With the power of Woobat, we'll prevail.", "Thanks, Crystal! If this is 100 egg I'll try to do you proud.", "Thanks, Crystal! Sorry I'm not running Aladdin SNES."],
+      "crystalfos_": ["Thanks, Crystal! With the power of Woobat, we'll prevail.", "Thanks, Crystal! If this is 100 egg I'll try to do you proud.", "Thanks, Crystal! Sorry I'm not fighting Sans.", "Thanks Crystal! I'll need it if this is Aladdin..."],
       "caenisce": ["!discord - Thanks, Caenis!", "Thanks, Caenis!  Not that I need it Kappa"],
       "cynderdraaygon": ["Thanks, Sidner, my modtastic mod!", "Thanks, Sibder! I hope you enjoy the Spybo/Zelda/Kingdom Hearts/whatever run!", "Thanks Sipfer! I'll need it", "Thanks, Goog!  Wait I mean Sitrer.", "Thanks Sitwer! Did you know I spell your name in a different way in each of these responses?"],
       "superdave2": ["Is that THE superdave2? This run is blessed.", "Superdave was so great, they made a superdave2. May this run be great enough to warrant a sequel.", "Thanks superdave! When are you running Aladdin SNES?"],
@@ -13,23 +13,25 @@
     },
     "aladdin": {
       "uroogla": ["!begone @Uroogla - be nice and don't bait your chat"],
-      "crystalfos_": ["!begone @crystalfos_", "!begone - See, I changed it for you!", "!begone - I've already played it! https://www.twitch.tv/videos/2074936518"],
+      "crystalfos_": ["!begone Crystal Kappa", "!begone - See, I changed the sound effect for you!", "!begone - I'm slowly but surely getting better at it - https://www.twitch.tv/videos/2176627189"],
       "caenisce": ["!discord @caenisce - I mean !wasntmyidea"]
+      "secondplace92": ["!wasntmyidea - I'm working on it!"]
     },
     "tedprice": {
       "abidingphantom": ["Classic Abiding!"]
     },
     "blookleave": {
-      "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!"]
+      "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!", "Oh no, my mod is leaving BibleThump"]
     },
     "daisyarrive": {
       "secondplace92": ["Welcome on in, Second!"]
     },
     "fightsans": {
       "uroogla": ["Is Uroogla baiting chat again?"],
-      "crystalfos_": ["Depends, when is your KH2 Kingdom Keyblade challenge run?", "What's in it for me?"],
+      "crystalfos_": ["Listen, Uroogla is open to a game trade...", "Maybe, for the right trade..."],
       "psyeneyed": ["No.", "I said no.", "Because I don't want to.", "I don't care.", "Too bad."],
-      "cynderdraaygon": ["Shocking, Sipner is siding with Crystal. My mods are against me."]
+      "cynderdraaygon": ["Shocking, Sipner is siding with Crystal. My mods are against me."],
+      "secondplace92": ["If Sans is such a good fight, why is there no Sans 92? Huh Second?", "For the right price, maybe :eyes:"]
     },
     "gg": {
       "nightbot": ["Thanks, Nightbot!"]
