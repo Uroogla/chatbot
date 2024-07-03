@@ -1,43 +1,29 @@
 {
     "gl": {
-      "uroogla": ["Thanks, Uroogla! ...wait, that wasn't directed at me, was it?", "Good luck!", "Less typing, more game playing, Uroogla!"],
-      "secondplace92": ["Thanks, Second! That means a lot coming from a real speedrunner!", "Thanks, Second! May Daisy guide this stream.", "Thanks, Second!  So when are you running this?"],
-      "crystalfos_": ["Thanks, Crystal! With the power of Woobat, we'll prevail.", "Thanks, Crystal! If this is 100 egg I'll try to do you proud.", "Thanks, Crystal! Sorry I'm not fighting Sans.", "Thanks Crystal! I'll need it if this is Aladdin..."],
-      "caenisce": ["!discord - Thanks, Caenis!", "Thanks, Caenis!  Not that I need it Kappa"],
-      "cynderdraaygon": ["Thanks, Sidner, my modtastic mod!", "Thanks, Sibder! I hope you enjoy the Spybo/Zelda/Kingdom Hearts/whatever run!", "Thanks Sipfer! I'll need it", "Thanks, Goog!  Wait I mean Sitrer.", "Thanks Sitwer! Did you know I spell your name in a different way in each of these responses?"],
-      "superdave2": ["Is that THE superdave2? This run is blessed.", "Superdave was so great, they made a superdave2. May this run be great enough to warrant a sequel.", "Thanks superdave! When are you running Aladdin SNES?"],
-      "kestrel220": ["Is that THE kestrel220? This run is blursed.", "Kestrel was so great, they made a kestrel220. Hopefully this run doesn't need 219 sequels to PB.", "Thanks kestrel! I don't know much about you, but I think you should play Aladdin SNES?"],
-      "psyeneyed": ["Thanks, Psyeneyed! May the Heart of the Cards lead us to victory.", "Thanks, Psyeneyed! May the way of the Hero lead to the Triforce - or at least a sword.", "Thanks Psyeneyed! I'm sorry that this game doesn't involve traversing many liminal spaces...", "Thanks Psyeneyed! Hope you're having a good day!"],
-      "abidingphantom": ["No u, Abiding!", "Thanks, Abiding!  At least this isn't Getting Over It.", "Thanks, Abiding! See, I made my own bot for my channel!"],
-      "dereklander": ["Happy birthday, Derek!", "Thanks, Derek! When's the Aladdin-sprashfecta?", "Thanks, Derek! By the way, my mod told me to tell you to do Mushroom Speedway ILs."],
-      "debianchan": ["Thanks Debian! I was just about to explain why Tocharian C is the best Altaic language!"],
-      "dylanjayfox": ["Thanks, GOAT! I approeciate it."]
-    },
-    "aladdin": {
-      "uroogla": ["!begone @Uroogla - be nice and don't bait your chat"],
-      "crystalfos_": ["!begone Crystal Kappa", "!begone - See, I changed the sound effect for you!", "!begone - I'm slowly but surely getting better at it - https://www.twitch.tv/videos/2181063453"],
-      "caenisce": ["!discord @caenisce - I mean !wasntmyidea"],
-      "superdave2": ["!wasntmyidea - no u"],
-      "secondplace92": ["!wasntmyidea - I'm working on it!"]
+        "uroogla": ["Thanks, Uroogla! ...wait, that wasn't directed at me, was it?", "Good luck!", "Less typing, more game playing, Uroogla!"],
+        "secondplace92": ["Thanks, Second! That means a lot coming from a real speedrunner!", "Thanks, Second! May Daisy guide this stream.", "Thanks, Second! If you haven't already, maybe you'll run this game one day!"],
+        "crystalfos_": ["Thanks, Crystal! With the power of Woobat, we'll prevail.", "Thanks, Crystal! If this is 100 egg I'll try to do you proud.", "Thanks Crystal! I'll need it if this is Aladdin..."],
+        "caenisce": ["!discord - Thanks, Caenis!", "Thanks, Caenis!  Not that I need it Kappa"],
+        "cynderdraaygon": ["Thanks, Sidner, my modtastic mod!", "Thanks, Sibder! I hope you enjoy the Spybo/Zelda/Kingdom Hearts/whatever run!", "Thanks Sipfer! I'll need it", "Thanks, Goog!  Wait I mean Sitrer.", "Thanks Sitwer! Did you know I spell your name in a different way in each of these responses?"],
+        "superdave2": ["Is that THE superdave2? This run is blessed.", "Superdave was so great, they made a superdave2. May this run be great enough to warrant a sequel.", "Is that Saltwater Sportfishing WR holder superdave2? It's an hono(u)r."],
+        "kestrel220": ["Is that THE kestrel220? This run is blursed.", "Kestrel was so great, they made a kestrel220. Hopefully this run doesn't need 219 sequels to PB."],
+        "psyeneyed": ["Thanks, Psyeneyed! May the Heart of the Cards lead us to victory.", "Thanks, Psyeneyed! May the way of the Hero lead to the Triforce - or at least a sword.", "Thanks Psyeneyed! I'm sorry that this game doesn't involve traversing many liminal spaces...", "Thanks Psyeneyed! Hope you're having a good day!"],
+        "abidingphantom": ["No u, Abiding!", "Thanks, Abiding!  At least this isn't Getting Over It.", "Thanks, Abiding! See, I made my own bot for my channel!"],
+        "dereklander": ["Happy birthday, Derek!", "Thanks, Derek! I hope you're doing well!"],
+        "debianchan": ["Thanks Debian! I was just about to explain why Japanese is the best Altaic language!", "Thanks Debian! I was just about to explain why Tocharian C is objectively the best dialect of C!"],
+        "praisebigdog": ["Thanks, PBD!", "Is that renowned Fireboy and Watergirl: Fairy Tales runner PBD? Thanks for the luck!"]
+        "dylanjayfox": ["Thanks, GOAT! I approeciate it."]
     },
     "tedprice": {
-      "abidingphantom": ["Classic Abiding!"]
+        "abidingphantom": ["Classic Abiding!"]
     },
     "blookleave": {
-      "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!", "Oh no, my mod is leaving BibleThump"]
+        "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!", "Oh no, my mod is leaving BibleThump"]
     },
     "daisyarrive": {
-      "secondplace92": ["Welcome on in, Second!"]
-    },
-    "fightsans": {
-      "uroogla": ["Is Uroogla baiting chat again?"],
-      "crystalfos_": ["Eventually, maybe.", "Hmm I'll consider it."],
-      "psyeneyed": ["No.", "I said no.", "Because I don't want to.", "I don't care.", "Too bad."],
-      "cynderdraaygon": ["Shocking, Sipner is siding with Crystal. My mods are against me."],
-      "secondplace92": ["If Sans is such a good fight, why is there no Sans 92? Huh Second?"],
-      "superdave2": ["No u"]
+        "secondplace92": ["Hi Second! Hope you're having a good day!", "Welcome on in, Second!"]
     },
     "gg": {
-      "nightbot": ["Thanks, Nightbot!"]
+        "nightbot": ["Thanks, Nightbot!"]
     }
 }
