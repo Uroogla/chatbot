@@ -2,18 +2,23 @@
     "gl": {
         "uroogla": ["Thanks, Uroogla! ...wait, that wasn't directed at me, was it?", "Good luck!", "Less typing, more game playing, Uroogla!"],
         "secondplace92": ["Thanks, Second! That means a lot coming from a real speedrunner!", "Thanks, Second! May Daisy guide this stream.", "Thanks, Second! If you haven't already, maybe you'll run this game one day!"],
-        "crystalfos_": ["Thanks, Crystal! With the power of Woobat, we'll prevail.", "Thanks, Crystal! If this is 100 egg I'll try to do you proud.", "Thanks Crystal! I'll need it if this is Aladdin..."],
-        "caenisce": ["!discord - Thanks, Caenis!", "Thanks, Caenis!  Not that I need it Kappa"],
+        "crystalfos_": ["Thanks, Crystal! With the power of Woobat, we'll prevail.", "Thanks, Crystal! If this is 100 egg I'll try to do you proud.", "Thanks Crystal! I'll need it if this is Aladdin...", "Thanks Sans! Err...wait, no."],
+        "caenisce": ["!discord - Thanks, Caenis!", "Thanks, Caenis!  Not that I need it Kappa", "Thanks Discord!  I mean Caenis!"],
         "cynderdraaygon": ["Thanks, Sidner, my modtastic mod!", "Thanks, Sibder! I hope you enjoy the Spybo/Zelda/Kingdom Hearts/whatever run!", "Thanks Sipfer! I'll need it", "Thanks, Goog!  Wait I mean Sitrer.", "Thanks Sitwer! Did you know I spell your name in a different way in each of these responses?"],
         "superdave2": ["Is that THE superdave2? This run is blessed.", "Superdave was so great, they made a superdave2. May this run be great enough to warrant a sequel.", "Is that Saltwater Sportfishing WR holder superdave2? It's an hono(u)r."],
         "kestrel220": ["Is that THE kestrel220? This run is blursed.", "Kestrel was so great, they made a kestrel220. Hopefully this run doesn't need 219 sequels to PB."],
         "psyeneyed": ["Thanks, Psyeneyed! May the Heart of the Cards lead us to victory.", "Thanks, Psyeneyed! May the way of the Hero lead to the Triforce - or at least a sword.", "Thanks Psyeneyed! I'm sorry that this game doesn't involve traversing many liminal spaces...", "Thanks Psyeneyed! Hope you're having a good day!"],
         "abidingphantom": ["No u, Abiding!", "Thanks, Abiding!  At least this isn't Getting Over It.", "Thanks, Abiding! See, I made my own bot for my channel!"],
-        "dereklander": ["Happy birthday, Derek!", "Thanks, Derek! I hope you're doing well!"],
-        "debianchan": ["Thanks Debian! I was just about to explain why Japanese is the best Altaic language!", "Thanks Debian! I was just about to explain why Tocharian C is objectively the best dialect of C!"],
+        "dereklander": ["Is that future Aladdin SNES runner Dereklander? L4L!", "Happy birthday, Derek!", "Thanks, Derek! I hope you're doing well!"],
+        "debianchan": ["Thanks Debian! I was just about to explain why Japanese is the best Altaic language!", "Thanks, fellow Sparxless 120 runner!", "Thanks Debian! I was just about to explain why Tocharian C is objectively the best dialect of C!"],
         "praisebigdog": ["Thanks, PBD!", "Is that renowned Fireboy and Watergirl: Fairy Tales runner PBD? Thanks for the luck!"],
-        "dylanjayfox": ["Thanks, GOAT! I approeciate it."],
-        "uroogla2": ["You don't exist :think:"]
+        "dylanjayfox": ["Thanks, GOAT! I approeciate it.", "Thank you, fellow 14 Tali runner!"],
+        "britishcloudy": ["Thanks Sheep on Stilts%!", "Thanks S3 all major flop animations%!", "Thanks fellow Vortalistooby runner Cloudy!"],
+        "notvanni": ["Thanks Vanni! Don't tell anyone but this is practice for incremental gems.", "Thanks Vanni! If this is 117, I'll need it.  If this is not 117, I'll also need it."],
+        "toronite": ["Thank you! Maybe one day you'll find me running SRT 3any!"],
+        "zingochris": ["What was that? I don't have audio so can't hear you, Zingo", "Thanks, ZinGOATed", "Thanks, Zingo! At least this (probably) isn't Larxene"],
+        "silentsr_": ["Thanks Silent! I hope the 100 egg runs are going well for you.", "Thanks Silent! Okay, hear me out, a trifecta all collectibles run where we order collectibles based on how many vowels are in their names.", "Merci pour la bonne chance, Silent!"],
+        "el_reymono": ["Thank you! I hope the Spyro 3 and Tomba runs are going well!", "Thanks El_Rey! Knowing that one day I will complete the run fills me with determination!", "Gracias, El_Rey! Espero que todo esté bien!"]
     },
     "aladdin": {
       "uroogla": ["!begone @Uroogla - be nice and don't bait your chat"],
@@ -36,7 +41,7 @@
       "crystalfos_": ["Hmmmmmmmmmm. I'm really more a Wingdings fans myself.", "Sight fans first.  That's all I can tell you.", "!begone @crySANSfos_"],
       "psyeneyed": ["No.", "I said no.", "Because I don't want to.", "I don't care.", "Too bad."],
       "cynderdraaygon": ["Shocking, Sipner is siding with Crystal. My mods are against me."],
-      "secondplace92": ["If Sans is such a good fight, why is there no Sans 92? Huh Second?"],
+      "secondplace92": ["If Sans is such a good fight, why is there no SecondSans92? Huh Second?"],
       "superdave2": ["No u"]
     },
     "gg": {
