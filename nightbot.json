@@ -18,23 +18,27 @@
         "toronite": ["Thank you! Maybe one day you'll find me running SRT 3any!", "Thanks! Hopefully this run has less RNG than Pokemon TCG!"],
         "zingochris": ["What was that? I don't have audio so can't hear you, Zingo", "Thanks, ZinGOATed", "Thanks, Zingo! At least this (probably) isn't Larxene"],
         "silentsr_": ["Thanks Silent! I hope the 100 egg runs are going well for you.", "Thanks Silent! Okay, hear me out, a trifecta all collectibles run where we order collectibles based on how many vowels are in their names.", "Merci pour la bonne chance, Silent!"],
-        "el_reymono": ["Thank you! I hope the Spyro 3 and Tomba runs are going well!", "Thanks El_Rey! Knowing that one day I will complete the run fills me with determination!", "Gracias, El_Rey! Espero que todo esté bien!"]
+        "el_reymono": ["Thank you! I hope the Spyro 3 and Tomba runs are going well!", "Thanks El_Rey! Knowing that one day I will complete the run fills me with determination!", "Gracias, El_Rey! Espero que todo esté bien!"],
+        "_default": ["Thank you!"]
     },
     "aladdin": {
       "uroogla": ["!begone @Uroogla - be nice and don't bait your chat"],
       "crystalfos_": ["!begone Crystal Kappa", "!begone - See, I changed the sound effect for you!", "!begone - I had a deathless run! - https://youtu.be/g6OmMeG-Xc8"],
       "caenisce": ["!discord @caenisce - I mean !wasntmyidea"],
       "superdave2": ["!wasntmyidea - you're too good at it"],
-      "secondplace92": ["!wasntmyidea - I'm working on it!"]
+      "secondplace92": ["!wasntmyidea - I'm working on it!"],
+      "_default": ["!wasntmyidea"]
     },
     "tedprice": {
         "abidingphantom": ["Classic Abiding!"]
     },
     "blookleave": {
-        "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!", "Oh no, my mod is leaving BibleThump"]
+        "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!", "Oh no, my mod is leaving BibleThump"],
+        "_default": ["Cute emote! Anyone not already following @crystalfos_ should do so!"]
     },
     "daisyarrive": {
-        "secondplace92": ["Hi Second! Hope you're having a good day!", "Welcome on in, Second!"]
+        "secondplace92": ["Hi Second! Hope you're having a good day!", "Welcome on in, Second!"],
+        "_default": ["Cute emote! Anyone not already following @Secondplace92 should do so!"]
     },
     "fightsans": {
       "uroogla": ["Is Uroogla baiting chat again?"],
@@ -42,9 +46,11 @@
       "psyeneyed": ["No.", "I said no.", "Because I don't want to.", "I don't care.", "Too bad."],
       "cynderdraaygon": ["Shocking, Sipner is siding with Crystal. My mods are against me."],
       "secondplace92": ["If Sans is such a good fight, why is there no SecondSans92? Huh Second?"],
-      "superdave2": ["No u"]
+      "superdave2": ["No u"],
+      "_default": ["Not even for a Stooby Snack!"]
     },
     "gg": {
-        "nightbot": ["Thanks, Nightbot!"]
+        "nightbot": ["Thanks, Nightbot!"],
+        "_default": ["Thank you!", "Thanks!"]
     }
 }
