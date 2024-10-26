@@ -30,7 +30,8 @@
       "_default": ["!wasntmyidea"]
     },
     "tedprice": {
-        "abidingphantom": ["Classic Abiding!"]
+        "abidingphantom": ["Classic Abiding!"],
+        "_default": ["Oh hey, it's Ted Price, courtesy of @debianchan! Anyone not already following them should do so!"]
     },
     "blookleave": {
         "crystalfos_": ["No, don't leave, Crystal!", "Okay, see you later Crystal!", "Oh no, my mod is leaving BibleThump"],
